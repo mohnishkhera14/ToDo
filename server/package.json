@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.js",
-    "build" : "run build"
+    "build" : "npm run build"
   },
   "keywords": [],
   "author": "",
